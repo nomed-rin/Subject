@@ -4,3 +4,9 @@
 ต้องจัดให้อยุ่ในรูปจากน้อยไปมาก 
 [1 , 6, 99,44 ,43245]
 เลขที่โจทย์กำหนดให้คือ 1-99 ข้างบนเป็น example
+code โจทย์เผื่อคนงง 
+import random
+
+number = list(range(1, 100))
+
+random.shuffle(number)
