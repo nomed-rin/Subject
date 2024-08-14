@@ -4,9 +4,10 @@
 ต้องจัดให้อยุ่ในรูปจากน้อยไปมาก 
 [1 , 6, 9,44 ,43245]
 เลขที่โจทย์กำหนดให้คือ 1-99 ข้างบนเป็น example
-code โจทย์เผื่อคนงง 
+code โจทย์Gen เลข เผื่อคนงง 
 import random
 
 number = list(range(1, 100))
 
 random.shuffle(number)
+def Py03(arg):
