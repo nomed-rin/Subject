@@ -1,4 +1,4 @@
 *** ไม่ต้องใช้ input
-ให้เขียน function วัดค่าความยาวของ string 
+ให้เขียน function วัดค่าความยาวของ string  ***ให้ใช้ได้แค่ loop
 โดย return ออกมาเป็นจำนวน string ที่นับได้
 def Py05(arg):
