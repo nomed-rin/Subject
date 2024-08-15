@@ -1,0 +1,5 @@
+*** ไม่ต้องใช้ input
+ให้เขียน function รับค่า string แล้วนำมาreverse string เสร็จแล้วให้ return string ที่ reverseเสร็จแล้วออกมา 
+ไม่ต้อง print ***ให้ใช้ได้แค่ loop
+เช่น 
+abmncvb => bcvnmba
